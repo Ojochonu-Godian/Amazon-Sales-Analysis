@@ -1,5 +1,6 @@
 # Amazon-Sales-Analysis
-In this project I used python to clean and carryout exploratory data analysis on a dataset containing Amazon's sales information after which the final visualization was developed with Power BI
+In this project I used python to clean and carryout exploratory data analysis on a dataset containing Amazon's sales information after which the final visualization was developed with Power BI.
+This Project was done for the Pomerol Partners, December 2022 #Datadna Challenge on Linkedin.
 ### Content
 1. Data Preparation and cleaning
 2. Exploratory Data Analysis
