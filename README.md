@@ -1,6 +1,6 @@
 # AMAZON SALES ANALYSIS
 
-## ITRODUCTION
+## INTRODUCTION
 This dataset contains Amazon's Sales Information including the ORDER ID, PRODUCT, QUANTITY ORDERED, PRICE EACH, ORDER DATE and PURCHASE ADDRESS. I used python to clean and carryout **Exploratory Data Analysis** on the dataset after which I created a clean dataset and export to Power BI for the final dashbord.
 ### Content of the Notebook
 1. Data Preparation and cleaning
@@ -30,7 +30,7 @@ After loading the dataset I moved on to clean and process the data using in the 
 
 ## SKILLS DEMONSTRATED
 For this project I performed data cleaning and visualization using python libraries as seen below;
-#### * IMPORTING LIBRARIES
+### * IMPORTING LIBRARIES
 
 ![Amazon1](https://github.com/Ojochonu-Godian/Amazon-Sales-Analysis/assets/104824781/b6ff08c1-79db-4f32-a34c-010f4b6debff)
 
